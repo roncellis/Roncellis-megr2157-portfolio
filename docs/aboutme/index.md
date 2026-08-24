@@ -1,2 +1,12 @@
 #About Me
-I am a mechanical engineering at UNC Charlotte.
+# About Me – Roncellis Marshall
+
+I am a Mechanical Engineering student at the University of North Carolina at Charlotte. I decided to study mechanical engineering because I have always been interested in understanding how machines and systems operate and finding ways to improve them. Throughout my engineering courses and projects, I have gained experience with mechanical design, CAD, calculations, and hands-on problem-solving. These experiences have helped me understand that engineering involves more than simply finding the correct answer. It requires understanding the problem, considering different solutions, and being able to explain why a certain solution is the best choice.
+
+As I continue my education in mechanical engineering, I want to improve both my technical knowledge and my ability to apply what I learn to real-world situations. I enjoy working through engineering problems and seeing how calculations and design decisions connect to actual systems. My goal is to continue developing my skills in areas such as mechanical design, CAD, analysis, and problem-solving while also becoming better at communicating my ideas. Being able to clearly explain my work is important because engineers often have to work with other people and show how they reached their conclusions.
+
+To me, defending an engineering decision means having a clear reason and evidence behind the choice that I make. Instead of simply saying that a design works, I should be able to explain why I selected that design and how it meets the requirements of the problem. This could include using calculations, engineering principles, design constraints, testing, or comparisons between different options. It also means considering factors such as cost, materials, safety, performance, and practicality before making a final decision.
+
+At this point in my engineering education, I am still developing my ability to fully defend engineering decisions. I am comfortable using calculations and concepts from my classes to solve problems, but I want to improve at documenting my thought process and explaining why one solution may be better than another. I believe developing this skill will make me a stronger engineer because engineering decisions often need to be understood and evaluated by other people.
+
+I spent approximately **4–8 hours over two days** completing this assignment. My time included reviewing the assignment requirements, analyzing the product, researching information, working through my engineering decisions, and developing the content for my portfolio.
