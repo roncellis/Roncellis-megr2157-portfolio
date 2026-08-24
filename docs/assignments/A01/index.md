@@ -21,7 +21,8 @@ Evidence of Reasoning:
 The portfolio explains some of the reasoning behind the engineering analysis instead of only presenting a final answer. The product analysis connects equations and mechanical principles to the physical features of the product. It also discusses alternative designs and explains why certain design features may have been selected. This helps the reader understand how the writer reached their conclusions.
 
 Professional Tone:
-The portfolio uses engineering terminology and focuses on the technical aspects of the work. Terms such as normal stress, cross-sectional area, spring stiffness, and restoring force are used to describe the mechanical behavior of the product. This makes the writing appropriate for an engineering instructor, student, or potential employer.# Sebastian Mateus's Engineering Portfolio
+The portfolio uses engineering terminology and focuses on the technical aspects of the work. Terms such as normal stress, cross-sectional area, spring stiffness, and restoring force are used to describe the mechanical behavior of the product. This makes the writing appropriate for an engineering instructor, student, or potential employer.
+# Sebastian Mateus's Engineering Portfolio
 https://smateus0.github.io/megr2157-portfolio/
 
 Navigability:
