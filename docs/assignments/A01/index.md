@@ -23,6 +23,18 @@ The portfolio explains some of the reasoning behind the engineering analysis ins
 Professional Tone:
 The portfolio uses engineering terminology and focuses on the technical aspects of the work. Terms such as normal stress, cross-sectional area, spring stiffness, and restoring force are used to describe the mechanical behavior of the product. This makes the writing appropriate for an engineering instructor, student, or potential employer.# Sebastian Mateus's Engineering Portfolio
 https://smateus0.github.io/megr2157-portfolio/
+
+Navigability:
+The second portfolio also separates its content into individual assignments and sections. The navigation menu includes assignments A1 through A11, and the A1 page is divided into sections such as Analyze, Decide, and Communicate. This organization allowed me to locate the product analysis in under 60 seconds without searching through unrelated information.
+
+Reproducibility:
+The portfolio explains the engineering models used to analyze a screwdriver, including equations for torque and torsional shear stress. The variables and assumptions are also identified, which helps another engineering student understand how the product was analyzed. However, actual dimensions, applied forces, material properties, and complete numerical calculations would be required to fully reproduce the analysis.
+
+Evidence of Reasoning:
+The portfolio connects the geometry of the screwdriver to its mechanical function. For example, it explains how the radius of the handle affects the moment arm and the amount of torque that can be produced. It also discusses how the geometry of the shaft affects torque transmission. These explanations show why the product's geometry matters instead of only describing what the product looks like.
+
+Professional Tone:
+The portfolio uses mechanical engineering terminology such as torque, torsional loading, polar moment of inertia, and shear stress. The writing focuses on the mechanical behavior and engineering purpose of the product rather than using general descriptions. This makes the information appropriate for a reader with an engineering background.
 ## Decide
 
 
