@@ -10,8 +10,8 @@ For the analysis portion of this assignment, I will evaluate two engineering por
 
 # Joshua Malonda's Engineering Portfolio
 https://jmalonda12.github.io/joshs-megr2156-portfolio/
-Navigability:
 
+Navigability:
 Joshua's portfolio is organized using separate sections for each assignment. The navigation menu allows a reader to move directly between assignments instead of searching through one long page. Within A1, headings are also used to separate the different parts of the assignment. I was able to locate a specific assignment and its analysis in under 60 seconds.
 
 Reproducibility:
