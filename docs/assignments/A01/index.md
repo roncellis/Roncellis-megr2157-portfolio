@@ -8,7 +8,10 @@ Task A : Portfolio Analysis
 
 For the analysis portion of this assignment, I will evaluate two engineering portfolios based on their navigability, reproducibility, evidence of reasoning, and professional tone. I will also analyze a simple mechanical product by identifying its primary function, governing mechanical principles, component geometry, and design decisions. The purpose of this section is to practice applying engineering concepts and explaining the reasoning behind an analysis.
 
+# Joshua Malonda's Engineering Portfolio
 
+
+# Sebastian Mateus's Engineering Portfolio
 ## Decide
 
 
