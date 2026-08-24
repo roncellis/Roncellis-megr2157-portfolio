@@ -36,6 +36,10 @@ The portfolio connects the geometry of the screwdriver to its mechanical functio
 
 Professional Tone:
 The portfolio uses mechanical engineering terminology such as torque, torsional loading, polar moment of inertia, and shear stress. The writing focuses on the mechanical behavior and engineering purpose of the product rather than using general descriptions. This makes the information appropriate for a reader with an engineering background.
+
+# Overall Analysis
+
+Both portfolios make their engineering assignments easy to locate by using organized navigation menus and labeled sections. They also provide evidence of engineering reasoning by connecting equations and mechanical principles to physical products. One area that could be improved in both portfolios is reproducibility. Including more dimensions, measured values, material properties, and complete calculations would make it easier for another engineer to repeat the analyses without needing additional information. From reviewing these portfolios, I learned that my own portfolio should not only show my final work but also explain the assumptions, calculations, and reasoning that led to my engineering decisions.
 ## Decide
 
 
