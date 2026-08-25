@@ -101,6 +101,9 @@ The textured surface also increases grip between the user's hand and the handle,
 
 Component 2: Metal Shaft and Phillips Tip
 
+<img width="2000" height="2666" alt="image" src="https://github.com/user-attachments/assets/5f11de91-b8fb-4a64-988f-abfdcffcab56" />
+
+
 ## Decide
 
 
