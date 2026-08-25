@@ -65,7 +65,9 @@ T = Fr
 where:
 
 (T) = torque applied to the screwdriver
+
 (F) = force applied by the user's hand
+
 (r) = perpendicular distance from the axis of rotation to where the force is applied
 ## Decide
 
