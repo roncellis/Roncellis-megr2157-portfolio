@@ -142,8 +142,5 @@ About Me
 Professional introduction and background information are provided in the section labeled "About Me" on the homepage of this portfolio.
 
 
-
-Time Spent
-
 I spent approximately 4 to 6 hours completing this assignment.
 
