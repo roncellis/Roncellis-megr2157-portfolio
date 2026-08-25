@@ -43,7 +43,7 @@ Both portfolios make their engineering assignments easy to locate by using organ
 
 # Task B: Product Analysis 
 
-Phillips Screwdriver
+Phillips Screwdriver 
 
 For my product analysis, I selected a Phillips screwdriver. The screwdriver is a primarily mechanical product because it transfers force and rotational motion from the user's hand to a screw. The two main components I am analyzing are the handle and the metal shaft with the Phillips tip.
 ## Decide
