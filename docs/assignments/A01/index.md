@@ -47,6 +47,26 @@ Phillips Screwdriver
 <img width="2000" height="2666" alt="image" src="https://github.com/user-attachments/assets/426b9eeb-65df-46d7-ab60-b06a856cd271" />
 
 For my product analysis, I selected a Phillips screwdriver. The screwdriver is a primarily mechanical product because it transfers force and rotational motion from the user's hand to a screw. The two main components I am analyzing are the handle and the metal shaft with the Phillips tip.
+
+# Primary Function
+
+The primary mechanical function of the screwdriver is to transmit torque from the user's hand through the handle and metal shaft to a Phillips-head screw so the screw can be tightened or loosened.
+
+When the user rotates the handle, the force from their hand creates torque about the center axis of the screwdriver. The metal shaft transfers this torque to the Phillips tip, which engages with the matching recess in the screw head and causes the screw to rotate.
+
+# Governing Model
+
+The main mechanical principle governing the screwdriver is torque:
+
+[
+T = Fr
+]
+
+where:
+
+(T) = torque applied to the screwdriver
+(F) = force applied by the user's hand
+(r) = perpendicular distance from the axis of rotation to where the force is applied
 ## Decide
 
 
