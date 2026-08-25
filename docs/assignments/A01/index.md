@@ -42,6 +42,9 @@ The portfolio uses mechanical engineering terminology such as torque, torsional 
 Both portfolios make their engineering assignments easy to locate by using organized navigation menus and labeled sections. They also provide evidence of engineering reasoning by connecting equations and mechanical principles to physical products. One area that could be improved in both portfolios is reproducibility. Including more dimensions, measured values, material properties, and complete calculations would make it easier for another engineer to repeat the analyses without needing additional information. From reviewing these portfolios, I learned that my own portfolio should not only show my final work but also explain the assumptions, calculations, and reasoning that led to my engineering decisions.
 
 # Task B: Product Analysis 
+
+Phillips Screwdriver
+For my product analysis, I selected a Phillips screwdriver. The screwdriver is a primarily mechanical product because it transfers force and rotational motion from the user's hand to a screw. The two main components I am analyzing are the handle and the metal shaft with the Phillips tip.
 ## Decide
 
 
