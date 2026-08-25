@@ -103,7 +103,21 @@ The textured surface also increases grip between the user's hand and the handle,
 
 <img width="2000" height="2666" alt="image" src="https://github.com/user-attachments/assets/5f11de91-b8fb-4a64-988f-abfdcffcab56" />
 
+The metal shaft is long and narrow compared with the handle. Its primary mechanical purpose is to transmit torque from the handle to the screwdriver tip. The narrow geometry also allows the screwdriver to reach screws located in recessed or restricted areas.
 
+At the end of the shaft is a Phillips-shaped tip consisting of four tapered sections arranged in a cross pattern. These surfaces fit into the matching recess of a Phillips-head screw. When the shaft rotates, contact between the tip and screw surfaces transfers torque from the screwdriver into the screw.
+
+The cross-shaped geometry also helps center the screwdriver relative to the screw's rotational axis. This allows rotational force to be distributed through several contact surfaces instead of the single straight slot used by a flat-head screwdriver.
+
+# Patent Research
+
+A patent related to the design of the screwdriver tip is U.S. Patent US2046840A, "Screw Driver," by Henry F. Phillips and Thomas M. Fitzpatrick.
+
+The patent describes a screwdriver designed to engage with a recessed screw head using matching geometry. This is relevant to my screwdriver because my screwdriver uses a Phillips-style cross-shaped tip designed to fit into a corresponding cross-shaped screw recess.
+
+Patent Number: US2046840A
+Inventors: Henry F. Phillips and Thomas M. Fitzpatrick
+Publication Year: 1936
 ## Decide
 
 
