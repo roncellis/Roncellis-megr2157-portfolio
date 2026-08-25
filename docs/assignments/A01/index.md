@@ -69,6 +69,29 @@ where:
 (F) = force applied by the user's hand
 
 (r) = perpendicular distance from the axis of rotation to where the force is applied
+
+This equation explains why the diameter of the handle is important. A larger handle radius increases the moment arm. For the same amount of hand force, increasing the radius increases the torque that can be applied to the screwdriver.
+
+The metal shaft can also be modeled using torsional shear stress:
+
+[
+\tau_{max} = \frac{Tc}{J}
+]
+
+where:
+
+(\tau_{max}) = maximum shear stress in the shaft
+
+(T) = torque transmitted through the shaft
+
+(c) = distance from the center of the shaft to its outer surface
+
+(J) = polar moment of inertia of the shaft
+Assumption
+
+For this analysis, I assume that the metal shaft behaves as a solid, uniform member and that the material properties remain constant throughout the shaft. I also assume that the main load acting on the shaft is torsion and that bending of the shaft is small compared with the rotational loading. These assumptions allow the screwdriver to be analyzed primarily as a component transmitting torque.
+
+Component 1: Handle
 ## Decide
 
 
