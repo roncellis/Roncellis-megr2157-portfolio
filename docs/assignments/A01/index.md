@@ -120,6 +120,20 @@ Inventors: Henry F. Phillips and Thomas M. Fitzpatrick
 Publication Year: 1936
 ## Decide
 
+# Part 2 Decide 
+
+Homepage Identity
+
+For my homepage, I want a visitor to immediately understand that the site is a record of my engineering work throughout MEGR 2156. The homepage will identify the purpose of the portfolio and explain that the assignments are organized around analyzing problems, making engineering decisions, and communicating the reasoning behind those decisions. This information is important for an instructor, engineer, or potential employer because it allows them to understand what the portfolio contains and how to navigate my work before opening an individual assignment.
+
+Intentional Customization
+
+One intentional customization I made to the portfolio template was changing the color scheme from the default colors. I made this change to make the different sections and navigation elements easier to distinguish while keeping the appearance consistent throughout the site. The default color scheme provided the required structure, but changing it allows my portfolio to have its own visual identity while maintaining the same navigation system. The purpose of this change is not only appearance, but to make the portfolio easier for a reader to navigate and recognize.
+
+Documentation Standard
+
+For every assignment in this portfolio, I will document the problem, assumptions, engineering models, calculations, decisions, and results with enough detail that another engineering student can understand how I reached my conclusion without needing additional explanation.
+
 
 ## Communicate
 
