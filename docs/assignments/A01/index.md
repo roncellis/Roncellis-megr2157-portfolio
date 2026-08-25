@@ -92,6 +92,15 @@ Assumption
 For this analysis, I assume that the metal shaft behaves as a solid, uniform member and that the material properties remain constant throughout the shaft. I also assume that the main load acting on the shaft is torsion and that bending of the shaft is small compared with the rotational loading. These assumptions allow the screwdriver to be analyzed primarily as a component transmitting torque.
 
 Component 1: Handle
+
+<img width="2000" height="2666" alt="image" src="https://github.com/user-attachments/assets/d6406333-b983-4c7d-9077-c1594741fff5" />
+
+The handle has a larger diameter than the metal shaft and has a rounded shape with textured green sections around the outside. The larger radius increases the distance between the applied hand force and the center axis of the screwdriver. Based on (T=Fr), this geometry allows the user to produce more torque without increasing the applied force.
+
+The textured surface also increases grip between the user's hand and the handle, reducing the chance of the hand slipping while torque is being applied. The wider section near the end of the handle provides additional surface area for the user's palm and fingers to apply rotational force.
+
+Component 2: Metal Shaft and Phillips Tip
+
 ## Decide
 
 
