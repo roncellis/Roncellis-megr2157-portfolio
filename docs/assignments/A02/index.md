@@ -28,7 +28,6 @@ I decided to use \(P=25 kN\) and create a simple triangular truss connecting A, 
 # 2i. – Truss Structure
 
 I designed a five-member truss consisting of members AB, BC, CD, DA, and CA. Using the given dimensions of \(a=0.4\,m\) and \(b=0.3\,m\), I determined the member lengths to be 1.20 m for AB, 0.50 m for BC, 0.40 m for CD, 0.50 m for DA, and 0.854 m for CA. This geometry keeps the truss simple and lightweight while supporting the loads at C and D.
-
 # 2ii. – Free Body Diagrams
 
 I created free-body diagrams of the truss joints to identify the forces acting on each member. I also calculated the support reactions and found \(A_x=0\), \(A_y=8.33\) kN, and \(B_y=-8.33\) kN. These reactions were then used with the Method of Joints to solve for the internal member forces.
