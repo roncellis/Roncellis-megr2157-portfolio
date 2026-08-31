@@ -28,7 +28,6 @@ I decided to use \(P=25 kN\) and create a simple triangular truss connecting A, 
 # 2i. – Truss Structure
 
 I designed a five-member truss consisting of members AB, BC, CD, DA, and CA. Using the given dimensions of \(a=0.4\,m\) and \(b=0.3\,m\), I determined the member lengths to be 1.20 m for AB, 0.50 m for BC, 0.40 m for CD, 0.50 m for DA, and 0.854 m for CA. This geometry keeps the truss simple and lightweight while supporting the loads at C and D.
-
 IMG_4091.pdf
 # 2ii. – Free Body Diagrams
 
