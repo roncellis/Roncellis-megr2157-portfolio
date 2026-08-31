@@ -25,7 +25,7 @@ I analyzed the given geometry with a=0.4, b=0.3 a pin at A, and a roller at B. T
 ## Decide
 I decided to use \(P=25 kN\) and create a simple triangular truss connecting A, B, C, and D. I selected this geometry because triangles provide stability while keeping the number of members and overall weight low. This design also makes it easier to calculate the member forces and transfer the loads at C and D to the supports.
 
-# 2i. – Truss Structure
+# 2i. – Truss Structure 
 
 I designed a five-member truss consisting of members AB, BC, CD, DA, and CA. Using the given dimensions of \(a=0.4\,m\) and \(b=0.3\,m\), I determined the member lengths to be 1.20 m for AB, 0.50 m for BC, 0.40 m for CD, 0.50 m for DA, and 0.854 m for CA. This geometry keeps the truss simple and lightweight while supporting the loads at C and D.
   <img width="2000" height="2666" alt="image" src="https://github.com/user-attachments/assets/7e5d06d8-6e04-4e39-b42d-3615840fa297" />
