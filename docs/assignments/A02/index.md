@@ -33,6 +33,7 @@ I designed a five-member truss consisting of members AB, BC, CD, DA, and CA. Usi
 # 2ii. – Free Body Diagrams
 
 I created free-body diagrams of the truss joints to identify the forces acting on each member. I also calculated the support reactions and found \(A_x=0\), \(A_y=8.33\) kN, and \(B_y=-8.33\) kN. These reactions were then used with the Method of Joints to solve for the internal member forces.
+<img width="2000" height="2666" alt="image" src="https://github.com/user-attachments/assets/166c8587-e429-4ddb-8c9b-7d4a4a29ded1" />
 
 # 2iii. – Symbolic Internal Forces
 
