@@ -43,37 +43,42 @@ I used the equilibrium equations \(\sum F_x=0\) and \(\sum F_y=0\) at each joint
 
 Using \(P=25\) kN, \(a=0.4\) m, and \(b=0.3\) m, I calculated the member forces. AB was 11.11 kN in tension, BC was 13.89 kN in compression, CD was 33.33 kN in tension, AD was 41.67 kN in tension, and CA was 47.47 kN in compression. Therefore, CA had the largest internal force and controlled the member design.
 
+
+# CAD DESIGN
+
+I modeled the truss as one solid part in Creo. I started by creating the main members and setting the overall dimensions of the truss. The top member was set to 1.20 m long, and the overall height was set to 0.30 m.
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/25bd6a55-f6bc-4960-8f5c-259287e6dabd" />
 
 
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/dcd35395-0452-49a2-a8b7-afa6a4729c18" />
+Next, I added the diagonal members to connect the upper and lower joints. I used dimensions and constraints to control the locations of the members and make sure they connected at the correct points.
 
 
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/78eb7863-a349-4ffa-9473-e9fed01caae0" />
 
+After establishing the basic truss shape, I added the remaining diagonal member to increase the triangulation of the design. This created the final geometry I selected for the truss.
 
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/98a306dc-805f-4f99-b5a6-5eb3d1dfd742" />
+I then adjusted the dimensions and constraints until the members were positioned correctly and formed one continuous truss. The completed sketch was used to create the solid model.
 
 
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/0297c548-d7d1-46f6-82b8-3aa1b6cdd407" />
-
+Next, I created the pin holes at the joints. Each hole was centered at the connection point so the load could be transferred through the joints properly.
 
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/4c1f62dd-3daf-4dd8-a9d1-c66bb6b762a5" />
-
+After completing the 2D geometry, I extruded the sketch to give the truss its required thickness. This produced the final 3D shape of the truss.
 
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/1381d683-680f-4f42-9bc0-863f53079c00" />
-
-
+I checked the final model and the joint geometry to make sure the members remained connected and that there was enough material around the pin holes.
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/da7ba7b6-088f-4707-861a-7f21e7202707" />
 
 
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/d0f46a97-0638-43dc-886d-8b688d18ec27" />
-
+Finally, I assigned steel as the material and used the Mass Properties tool to evaluate the completed design. Creo calculated a volume of approximately 1.5895 × 10⁻³ m³ and a mass of approximately 12.44 kg.
 
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/44b9a2e7-bf3d-4003-9df1-28753df29dd1" />
 
 
 <img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/98e2855c-346b-4015-ab60-cac6213c5133" />
-
-## Communicate
+This is better than putting a sentence under every single picture because the screenshots that show similar steps can be grouped together. It also reads like you’re documenting your actual CAD process instead of just describing what is visible in each screenshot.## Communicate
 
