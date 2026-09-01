@@ -80,5 +80,13 @@ Finally, I assigned steel as the material and used the Mass Properties tool to e
 
 
 <img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/98e2855c-346b-4015-ab60-cac6213c5133" />
-This is better than putting a sentence under every single picture because the screenshots that show similar steps can be grouped together. It also reads like you’re documenting your actual CAD process instead of just describing what is visible in each screenshot.## Communicate
+This is better than putting a sentence under every single picture because the screenshots that show similar steps can be grouped together. It also reads like you’re documenting your actual CAD process instead of just describing what is visible in each screenshot.
+## Communicate
 
+One of the main things I learned from this project was how to take calculations and actually use them to design a structural part. Before starting, I spent some time researching truss structures to get a better understanding of how they work. Starting the design from scratch was still challenging, and I had to use a lot of trial and error before getting to my final design. This helped me think more critically about the decisions I was making instead of just choosing dimensions without a reason.
+
+I already had experience with statics and equilibrium equations, but this project helped me understand how internal member forces, material strength, and safety factor can be used together to determine the size of a truss member.
+
+I also got more comfortable using Creo to turn my calculations into an actual 3D model. I improved at creating and dimensioning sketches, extruding parts, creating pin joints, assigning materials, and checking mass properties. I also learned how important it is to double-check dimensions and units because one incorrect setting in the CAD model can affect the final results.
+
+Overall, I spent around 10 hours working on this project, including the calculations, CAD modeling, making corrections, and documenting my final design.
