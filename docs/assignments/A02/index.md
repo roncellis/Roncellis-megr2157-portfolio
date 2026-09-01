@@ -42,5 +42,38 @@ I used the equilibrium equations \(\sum F_x=0\) and \(\sum F_y=0\) at each joint
 # 2iiii. – Numerical Internal Forces
 
 Using \(P=25\) kN, \(a=0.4\) m, and \(b=0.3\) m, I calculated the member forces. AB was 11.11 kN in tension, BC was 13.89 kN in compression, CD was 33.33 kN in tension, AD was 41.67 kN in tension, and CA was 47.47 kN in compression. Therefore, CA had the largest internal force and controlled the member design.
+
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/25bd6a55-f6bc-4960-8f5c-259287e6dabd" />
+
+
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/dcd35395-0452-49a2-a8b7-afa6a4729c18" />
+
+
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/78eb7863-a349-4ffa-9473-e9fed01caae0" />
+
+
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/98a306dc-805f-4f99-b5a6-5eb3d1dfd742" />
+
+
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/0297c548-d7d1-46f6-82b8-3aa1b6cdd407" />
+
+
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/4c1f62dd-3daf-4dd8-a9d1-c66bb6b762a5" />
+
+
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/1381d683-680f-4f42-9bc0-863f53079c00" />
+
+
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/da7ba7b6-088f-4707-861a-7f21e7202707" />
+
+
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/d0f46a97-0638-43dc-886d-8b688d18ec27" />
+
+
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/44b9a2e7-bf3d-4003-9df1-28753df29dd1" />
+
+
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/98e2855c-346b-4015-ab60-cac6213c5133" />
+
 ## Communicate
 
