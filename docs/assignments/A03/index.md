@@ -33,7 +33,7 @@ Maximum Von Mises Stress: 8,709 psi
 
 Based on the simulation results, the bar remained below the maximum allowable stress of 40,000 psi. The resulting factor of safety was approximately 4.59 , indicating that the bar meets the stress requirement.
 
-[Insert Von Mises stress FEA image here]
+
 
 I also examined the displacement results from the simulation. The maximum displacement was [YOUR VALUE] inches, which I compared with the maximum allowable deflection of 0.009 inches.
 
