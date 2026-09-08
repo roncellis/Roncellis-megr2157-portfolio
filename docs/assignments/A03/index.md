@@ -14,7 +14,10 @@ For the first part of this assignment, I designed a bar with a circular cross-se
 
 After completing my initial calculations, I created the bar in CAD by sketching the circular cross-section and extruding it to the required length.
 
-To make the model parametric, I defined the important dimensions using parameters and equations. This allows the geometry of the bar to automatically update whenever one of the design values is changed instead of having to manually rebuild the model. 
+To make the model parametric, I defined the important dimensions using parameters and equations. This allows the geometry of the bar to automatically update whenever one of the design values is changed instead of having to manually rebuild the model.
+
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/80a1feb0-ec3f-4628-9815-cc6112259d15" />
+
 
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/62bebaa3-a85c-4467-8fdb-c3a7bfacf2ce" />
 
