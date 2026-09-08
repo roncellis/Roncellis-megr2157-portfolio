@@ -38,7 +38,9 @@ Based on the simulation results, the bar remained below the maximum allowable st
 I also examined the displacement results from the simulation. The maximum displacement was 0.008970 inches, which I compared with the maximum allowable deflection of 0.009 inches.
 
 Because the simulated displacement was below the allowable limit, the bar satisfied the deflection requirement. 
-<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/4cce6652-1d32-4a42-a695-259df213438b" />
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/4cce6652-1d32-4a42-a695-259df213438b" />. 
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/a02c9a29-0d3f-44a7-8580-462f252c193f" />
+
 
 ## Step 3 – Comparing Calculations and FEA
 
