@@ -60,7 +60,7 @@ The new maximum stress was 40,000 psi, which was still below the maximum allowab
 
 This showed that even with the additional stress concentration caused by the hole, the redesigned bar still satisfied the required stress criteria.
 
-Step 4 – Reflection / Lessons Learned
+## Step 4 – Reflection / Lessons Learned
 
 This assignment helped me better understand the relationship between hand calculations, parametric CAD modeling, and finite element analysis. Instead of only calculating stress and deformation using equations, I was able to create a physical model and use FEA to visualize how the part responds to loading.
 
