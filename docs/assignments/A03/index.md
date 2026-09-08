@@ -67,6 +67,7 @@ This assignment helped me better understand the relationship between hand calcul
 I also learned how important it is to correctly set up the material properties, loads, constraints, dimensions, and units before running a simulation. Even a small mistake in the setup can produce results that appear incorrect and make it difficult to determine whether the problem comes from the design or the simulation itself.
 
 The parametric portion of the assignment was also useful because it showed me how equations and dimensions can be connected within a CAD model. This makes modifying and testing different designs much faster because changing one parameter can automatically update the model.
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/09e78ac0-ab86-4bfc-93e2-7bb5abb2a7f8" />
 
 Overall, this assignment improved my understanding of how analytical calculations and computer simulations can be used together to verify an engineering design.
 
