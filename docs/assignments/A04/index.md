@@ -25,6 +25,7 @@ Feature 2 is the vertical portion of the motor mount that connects the entire de
 
 I created a free-body diagram to show the force transferred from Feature 1, the reactions at the wall, and the bending moment acting on Feature 2.
 <img width="2000" height="2666" alt="image" src="https://github.com/user-attachments/assets/3b5a5349-7e79-47de-94a2-8adeb3fb6448" />.  
+## Sketch
 <img width="2000" height="2666" alt="image" src="https://github.com/user-attachments/assets/97d7a483-57d9-4e6f-ae3d-4e812abd7c4f" />
 
 
