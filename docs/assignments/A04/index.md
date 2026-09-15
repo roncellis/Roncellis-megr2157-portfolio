@@ -28,6 +28,9 @@ I created a free-body diagram to show the force transferred from Feature 1, the 
 ## Sketch
 <img width="2000" height="2666" alt="image" src="https://github.com/user-attachments/assets/97d7a483-57d9-4e6f-ae3d-4e812abd7c4f" />
 
+## 3D CAD 
+<img width="2000" height="1333" alt="image" src="https://github.com/user-attachments/assets/72d1c0ee-f1a0-43cb-b1c7-f33e765a2e6d" />
+
 
 ## Decide
 
