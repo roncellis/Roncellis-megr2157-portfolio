@@ -40,3 +40,4 @@ I used beam-bending stress and deflection calculations to determine the minimum 
 
 Overall, I spent approximately 15 hours completing the calculations, sketches, CAD model, and portfolio documentation for this assignment.
 
+motor_mount_.zip
