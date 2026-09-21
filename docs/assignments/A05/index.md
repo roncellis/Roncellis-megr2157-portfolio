@@ -85,14 +85,43 @@ Based on the design requirements provided in Appendix D, Feature A was analyzed 
 
 ### Free-Body Diagram
 
-I can also reword the **calculations and explanation underneath the free-body diagram** so the whole Feature A section has the same style.
+
 
 <img width="1095" height="1437" alt="image" src="https://github.com/user-attachments/assets/005a04fc-564f-4a2d-aad2-096c43f29588" /> 
+
+
 <img width="1091" height="1441" alt="image" src="https://github.com/user-attachments/assets/76c38396-9108-4ede-b6c4-d85f64490fdd" />
+Final Stress Dimension
+dA,stress = 1.28 in
+Feature A – Cantilever Beam
+
+Based on the design requirements provided in Appendix D, Feature A was analyzed as a cantilever beam.
+
+Feature A – Stress Analysis
+Given
+Applied force, F = 600 lbf
+Safety factor, SF = 4
+Yield strength, Sy = 35,000 psi
+Allowable stress, σallow = 8,750 psi
+Feature A length, LA = 3.00 in
+Circular cross section
+Find
+Required minimum diameter, dA
+Assumptions
+Feature A behaves as a cantilever beam fixed at one end.
+The 600 lbf force acts at the free end of the feature.
+The bracket geometry and loading are symmetric.
+Feature A has a uniform circular cross section.
+Failure caused by direct shear is not considered.
+The applied force is treated as a static load.
+The material is assumed to remain within its elastic limit.
+The T-beam is assumed to behave as a rigid member.
+A design safety factor of 4 is applied.
+## Free-Body Diagram
 <img width="1098" height="1433" alt="image" src="https://github.com/user-attachments/assets/b98b3436-3e72-40d1-8e11-abcb028994e2" />
 
-
-
+Final Feature A Dimension
+dA = 1.28 in
 
 
 ## Decide
