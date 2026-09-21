@@ -25,6 +25,32 @@ The bracket design was separated into five individual features, labeled A throug
 
 ## Analyze
 
+## Design Requirements
+Applied load: F = 600 lbf
+Safety factor: SF = 4
+Material: Aluminum 6061-T6
+Yield strength: Sy = 35,000 psi
+Young's modulus: E = 10,000,000 psi
+Maximum allowable deflection: δmax = 0.005 in
+Direct shear failure is neglected as instructed in the assignment.
+The bracket is designed symmetrically.
+The T beam is treated as rigid.
+The loading is treated as static.
+## Allowable Stress
+σallow = Sy / SF
+
+σallow = 35,000 psi / 4
+
+σallow = 8,750 psi
+
+## Material Selection Justification
+
+Aluminum 6061-T6 was chosen because it offers a good combination of strength, stiffness, low weight, and ease of machining. With a yield strength of 35 ksi and an elastic modulus of 10 Msi, the material provides the properties needed for the bracket design. Although steel and titanium provide greater strength, their additional weight and cost are not necessary for this application. Aluminum 6061-T6 satisfies the design requirements while also being suitable for manufacturing the bracket geometry.
+
+## Overall Analysis Approach
+
+The bracket was separated into five features, labeled A through E. Each feature was evaluated using the strength-of-materials method that best represented its loading condition. Stress and stiffness were both analyzed to determine whether each feature could safely support the applied load while maintaining the required rigidity.
+
 
 ## Decide
 
