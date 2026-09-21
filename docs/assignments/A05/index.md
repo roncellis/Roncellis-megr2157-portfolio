@@ -97,7 +97,7 @@ Feature A – Cantilever Beam
 
 Based on the design requirements provided in Appendix D, Feature A was analyzed as a cantilever beam.
 
-Feature A – Stress Analysis
+## Feature A – Stress Analysis
 Given
 Applied force, F = 600 lbf
 Safety factor, SF = 4
@@ -105,10 +105,10 @@ Yield strength, Sy = 35,000 psi
 Allowable stress, σallow = 8,750 psi
 Feature A length, LA = 3.00 in
 Circular cross section
-Find
+## Find
 Required minimum diameter, dA
 Assumptions
-Feature A behaves as a cantilever beam fixed at one end.
+## Feature A behaves as a cantilever beam fixed at one end.
 The 600 lbf force acts at the free end of the feature.
 The bracket geometry and loading are symmetric.
 Feature A has a uniform circular cross section.
