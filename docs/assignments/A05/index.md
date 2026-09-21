@@ -49,7 +49,9 @@ Aluminum 6061-T6 was chosen because it offers a good combination of strength, st
 
 ## Overall Analysis Approach
 
-The bracket was separated into five features, labeled A through E. Each feature was evaluated using the strength-of-materials method that best represented its loading condition. Stress and stiffness were both analyzed to determine whether each feature could safely support the applied load while maintaining the required rigidity.
+The bracket was separated into five features, labeled A through E. Each feature was evaluated using the strength-of-materials method that best represented its loading condition. Stress and stiffness were both analyzed to determine whether each feature could safely support the applied load while maintaining the required rigidity. 
+<img width="1095" height="1437" alt="image" src="https://github.com/user-attachments/assets/005a04fc-564f-4a2d-aad2-096c43f29588" />
+
 
 
 ## Decide
