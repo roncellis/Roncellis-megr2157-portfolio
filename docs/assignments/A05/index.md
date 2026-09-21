@@ -50,7 +50,48 @@ Aluminum 6061-T6 was chosen because it offers a good combination of strength, st
 ## Overall Analysis Approach
 
 The bracket was separated into five features, labeled A through E. Each feature was evaluated using the strength-of-materials method that best represented its loading condition. Stress and stiffness were both analyzed to determine whether each feature could safely support the applied load while maintaining the required rigidity. 
-<img width="1095" height="1437" alt="image" src="https://github.com/user-attachments/assets/005a04fc-564f-4a2d-aad2-096c43f29588" />
+Here’s a reworded version that keeps the same engineering meaning but sounds more natural and original:
+
+# Feature A – Cantilever Beam
+
+Based on the design requirements provided in Appendix D, Feature A was analyzed as a cantilever beam.
+
+## Feature A – Stress Analysis
+
+### Given
+
+* Applied force, F = 600 lbf
+* Safety factor, SF = 4
+* Yield strength, Sy = 35,000 psi
+* Allowable stress, σallow = 8,750 psi
+* Feature A length, LA = 3.00 in
+* Circular cross section
+
+### Find
+
+* Required minimum diameter, dA
+
+### Assumptions
+
+1. Feature A behaves as a cantilever beam fixed at one end.
+2. The 600 lbf force acts at the free end of the feature.
+3. The bracket geometry and loading are symmetric.
+4. Feature A has a uniform circular cross section.
+5. Failure caused by direct shear is not considered.
+6. The applied force is treated as a static load.
+7. The material is assumed to remain within its elastic limit.
+8. The T-beam is assumed to behave as a rigid member.
+9. A design safety factor of 4 is applied.
+
+### Free-Body Diagram
+
+I can also reword the **calculations and explanation underneath the free-body diagram** so the whole Feature A section has the same style.
+
+<img width="1095" height="1437" alt="image" src="https://github.com/user-attachments/assets/005a04fc-564f-4a2d-aad2-096c43f29588" /> 
+<img width="1091" height="1441" alt="image" src="https://github.com/user-attachments/assets/76c38396-9108-4ede-b6c4-d85f64490fdd" />
+<img width="1098" height="1433" alt="image" src="https://github.com/user-attachments/assets/b98b3436-3e72-40d1-8e11-abcb028994e2" />
+
+
 
 
 
