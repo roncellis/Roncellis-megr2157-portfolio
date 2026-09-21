@@ -1,4 +1,4 @@
-# A5 – [Topic]
+# A5 – Design for Strength and Stiffness I
 
 ## Assignment Requirements
 Applied load: F = 600 lbf
@@ -16,6 +16,10 @@ Features A through E are analyzed for both stress and stiffness.
 
 
 ## Objective
+
+The purpose of this assignment was to develop a bracket using the conceptual design provided in Appendix B. The bracket was designed to support a horizontal load applied evenly through the polyester strap specified in Resource #1.
+
+The bracket design was separated into five individual features, labeled A through E in Appendix C. Each feature was evaluated for strength and stiffness to determine the dimensions needed to meet the design requirements.
 
 
 
