@@ -91,6 +91,7 @@ Based on the design requirements provided in Appendix D, Feature A was analyzed 
 
 
 <img width="1091" height="1441" alt="image" src="https://github.com/user-attachments/assets/76c38396-9108-4ede-b6c4-d85f64490fdd" />
+
 ## Final Stress Dimension
 dA,stress = 1.28 in
 
