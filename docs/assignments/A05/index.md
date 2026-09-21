@@ -119,7 +119,8 @@ The T-beam is assumed to behave as a rigid member.
 A design safety factor of 4 is applied.
 ## Free-Body Diagram
 <img width="1098" height="1433" alt="image" src="https://github.com/user-attachments/assets/b98b3436-3e72-40d1-8e11-abcb028994e2" />
-
+Governing Requirement
+Strength governs Feature A.
 Final Feature A Dimension
 dA = 1.28 in
 
