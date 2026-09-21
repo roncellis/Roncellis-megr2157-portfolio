@@ -213,6 +213,103 @@ The strength governors Feature B.
 tB = 0.14 in
 ## Decide
 
+## Feature C – Simply Supported Beam
+Appendix D specifies that Feature C is treated as a simply supported beam with a concentrated load at the center.
+
+## Feature C – Stress Analysis
+## Known
+F = 600 lbf
+LC = 4.00 in
+wC = 1.00 in
+SF = 4
+Sy = 35,000 psi
+σallow = 8,750 psi
+## Unknown
+Minimum beam thickness, tC
+## Assumptions
+Feature C is modeled as a simply supported beam.
+The load is concentrated at the center.
+The beam is symmetric.
+The cross section is rectangular.
+Direct shear failure is neglected.
+The load is static.
+The material remains in the elastic range.
+A safety factor of 4 is used.
+## Free Body Diagram 
+<img width="1118" height="1407" alt="image" src="https://github.com/user-attachments/assets/e6721e66-f1f4-4216-b448-d5a7249bbc8b" />
+
+##  Numerical Solution
+Mmax = (600)(4.00) / 4
+
+Mmax = 600 lbf·in
+
+tC = [6(600) / (1.00)(8,750)]^(1/2)
+
+tC = 0.642 in
+
+## Final Stress Dimension
+tC,stress = 0.642 in
+
+## Feature C – Stiffness Analysis
+## Known
+F = 600 lbf
+LC = 4.00 in
+wC = 1.00 in
+E = 10,000,000 psi
+δmax = 0.005 in
+## Unknown
+Minimum beam thickness, tC
+## Assumptions
+Feature C is modeled as a simply supported beam.
+The load is concentrated at the center.
+The beam is symmetric.
+Shear deflection is negligible.
+The cross section is rectangular.
+The material remains in the elastic range.
+Maximum allowable deflection is 0.005 in.
+## Free Body Diagram and Calculation 
+<img width="1119" height="1405" alt="image" src="https://github.com/user-attachments/assets/3d736ac6-b77d-4254-ac38-52d1148cd631" />
+
+## Numerical Solution
+tC = [600(4.00)³ / (4)(10,000,000)(1.00)(0.005)]^(1/3)
+
+tC = 0.577 in
+
+## Comparison
+tC,stress = 0.642 in
+
+tC,stiffness = 0.577 in
+
+Since:
+
+0.642 in > 0.577 in
+
+## Governing Requirement
+Strength governs Feature C.
+
+## Final Feature C Dimension
+tC = 0.642 in
+
+## Feature D – Axially Loaded Bar Model
+## Feature D – Stress Analysis
+## Known
+PD = 300 lbf
+SF = 4
+Sy = 35,000 psi
+σallow = 8,750 psi
+Width, wD = 0.50 in
+## Unknown
+Cross-sectional area, AD
+Required thickness, tD
+## Assumptions
+Feature D is modeled as an axially loaded bar based on the bracket geometry and the student example.
+The load transferred to Feature D is 300 lbf.
+The cross section is rectangular.
+Direct shear failure is neglected.
+The load is static.
+The material remains in the elastic range.
+A safety factor of 4 is used.
+## Free Body Diagram and Calculation
 
 ## Communicate
 
