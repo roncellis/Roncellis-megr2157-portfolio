@@ -313,5 +313,36 @@ A safety factor of 4 is used.
 
 <img width="1216" height="1293" alt="image" src="https://github.com/user-attachments/assets/6e7cf711-b9bc-4c3f-8d48-2be8c61a04d4" />
 
+## Numerical Solution
+AD = 300 / 8750
+
+AD = 0.03429 in²
+
+tD = 0.03429 / 0.50
+
+tD = 0.06857 in
+
+## Final Stress Dimension
+tD,stress = 0.06857 in
+
+## Feature D – Stiffness Analysis
+## Known
+PD = 300 lbf
+LD = 0.50 in
+E = 10,000,000 psi
+δmax = 0.005 in
+wD = 0.50 in
+## Unknown
+Minimum cross-sectional area
+Minimum thickness, tD
+## Assumptions
+Feature D behaves as an axially loaded bar.
+Shear deformation is negligible.
+The load is static.
+The material remains in the elastic range.
+The cross section is rectangular.
+Maximum allowable deflection is 0.005 in.
+Free Body Diagram and Calculation
+
 ## Communicate
 
