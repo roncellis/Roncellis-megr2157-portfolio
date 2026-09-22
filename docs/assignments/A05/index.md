@@ -311,5 +311,7 @@ The material remains in the elastic range.
 A safety factor of 4 is used.
 ## Free Body Diagram and Calculation
 
+<img width="1216" height="1293" alt="image" src="https://github.com/user-attachments/assets/6e7cf711-b9bc-4c3f-8d48-2be8c61a04d4" />
+
 ## Communicate
 
