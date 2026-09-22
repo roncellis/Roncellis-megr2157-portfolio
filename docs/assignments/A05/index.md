@@ -342,7 +342,154 @@ The load is static.
 The material remains in the elastic range.
 The cross section is rectangular.
 Maximum allowable deflection is 0.005 in.
-Free Body Diagram and Calculation
+## Free Body Diagram and Calculation
+<img width="1103" height="1426" alt="image" src="https://github.com/user-attachments/assets/5b03e16b-c0c6-4711-874c-7acfb7a34088" />
+
+## Numerical Solution
+AD = (300)(0.50) / (10,000,000)(0.005)
+
+AD = 0.00300 in²
+
+tD = 0.00300 / 0.50
+
+tD = 0.00600 in
+
+## Comparison
+tD,stress = 0.06857 in
+
+tD,stiffness = 0.00600 in
+
+Since:
+
+0.06857 in > 0.00600 in
+
+## Governing Requirement
+Strength governs Feature D.
+
+## Final Feature D Dimension
+tD = 0.06857 in
+## Feature E – Cantilever Beam
+## Feature E – Stress Analysis
+## Known
+F = 600 lbf
+LE = 2.00 in
+SF = 4
+Sy = 35,000 psi
+σallow = 8,750 psi
+Width, wE = 1.00 in
+Rectangular cross section
+## Unknown
+Minimum beam height, hE
+## Assumptions
+Feature E is modeled as a cantilever beam with an end load.
+The cross section is rectangular.
+Direct shear failure is neglected.
+The load is static.
+The material remains in the elastic range.
+Shear deformation is neglected.
+A safety factor of 4 is used.
+## Free Body Diagram and Calculation
+<img width="1137" height="1383" alt="image" src="https://github.com/user-attachments/assets/77fb3758-de84-4ea2-914e-169bf72f3a06" />
+
+## Numerical Solution
+Mmax = (600)(2.00)
+
+Mmax = 1,200 lbf·in
+
+hE = [6(1,200) / (1.00)(8,750)]^(1/2)
+
+hE = 0.907 in
+
+## Final Stress Dimension
+hE,stress = 0.907 in
+
+## Feature E – Stiffness Analysis
+## Known
+F = 600 lbf
+LE = 2.00 in
+E = 10,000,000 psi
+δmax = 0.005 in
+wE = 1.00 in
+## Unknown
+Minimum beam height, hE
+## Assumptions
+Feature E behaves as a cantilever beam.
+The load is applied at the free end.
+Shear deflection is negligible.
+The cross section is rectangular.
+The load is static.
+The material remains in the elastic range.
+Maximum allowable deflection is 0.005 in.
+## Free Body Diagram and Calculation
+<img width="1100" height="1430" alt="image" src="https://github.com/user-attachments/assets/2da1a601-1408-4934-88d3-18f2dbf945f9" />
+
+## Numerical Solution
+hE = [4(600)(2.00)³ / (10,000,000)(1.00)(0.005)]^(1/3)
+
+hE = 0.727 in
+
+## Comparison
+hE,stress = 0.907 in
+
+hE,stiffness = 0.727 in
+
+Since:
+
+0.907 in > 0.727 in
+
+## Governing Requirement
+Strength governs Feature E.
+
+## Final Feature E Dimension
+hE = 0.907 in
+
+## Decide
+## Final Design Dimensions
+The stress and stiffness requirements were compared for each feature. The larger required dimension was selected as the governing design dimension.
+
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/27bfc98a-d94d-49d2-a684-15f4c2e94507" />
 
 ## Communicate
 
+Multiview Drawing – Stress Dimensions
+The multiview drawing below shows the dimensions determined from the stress analysis.
+
+<img width="1825" height="862" alt="image" src="https://github.com/user-attachments/assets/89e06154-e4df-4350-bd72-502e82fa2d47" />
+
+Multiview Drawing – Stiffness Dimensions
+The multiview drawing below shows the dimensions determined from the stiffness analysis.
+
+<img width="1871" height="840" alt="image" src="https://github.com/user-attachments/assets/3fc4a666-e05b-4979-82fc-782c95ad127d" />
+
+AI-Enhanced Multiview Drawings
+
+I started by drawing the multiview sketches by hand to develop the design and determine the required dimensions. After completing the sketches, I used AI to improve the appearance and make the drawings easier to understand. The enhanced versions kept the same general design and dimensions from my original work. This was a useful way to see how AI can help turn basic engineering sketches into cleaner and more organized visuals.
+
+## Process Documentation
+## Design Process
+The design was developed by starting with Feature A and then using the resulting dimensions and load path to determine the dimensions of the following features. The bracket was analyzed using both stress and stiffness requirements.
+
+## Design Changes and Corrections
+During the calculations, an initial approach was checked against the cantilever-beam model required by Appendix D. The calculation was corrected to use the appropriate cantilever bending relationship and the required safety factor of 4.
+
+The corrected Feature A calculations resulted in:
+
+Stress requirement: dA = 1.28 in
+Stiffness requirement: dA = 1.22 in
+Governing dimension: dA = 1.28 in
+The calculations were checked before using the resulting dimensions in the remaining feature analyses.
+
+## Lessons Learned
+
+This assignment helped me better understand how strength and stiffness both play a role when designing a mechanical component. Even if a part can safely handle the applied stress, it may still deform more than allowed. Because of this, both strength and stiffness have to be considered when determining the final dimensions.
+
+For this bracket, strength controlled Features A through E because the dimensions required for stress were greater than those required for stiffness. This showed me the importance of analyzing each feature individually instead of assuming the same condition will control every part of the design.
+
+I also learned how errors in one calculation can affect the rest of the design. Since Feature A was analyzed first and influenced later geometry and calculations, an incorrect value early in the process could lead to incorrect results for the other features. Checking my work throughout the analysis and comparing my calculated dimensions with my drawings helped make sure everything remained consistent.
+
+Another assumption made during the assignment was that direct shear failure could be ignored. If direct shear had been considered, additional calculations would have been necessary and could have resulted in larger required dimensions.
+
+Overall, this assignment showed me how important it is to keep the engineering calculations and drawings consistent. I also learned to clearly separate the minimum calculated dimensions from the dimensions actually chosen for the final design.
+
+## Time Spent
+I spent approximately 12 hours completing this assignment.
