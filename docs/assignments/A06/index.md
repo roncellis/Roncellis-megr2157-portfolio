@@ -50,4 +50,5 @@ I learned how to create tolerance fits and how to determine which analysis gover
 
 I spent approximately 7 hours creating my part on CAD and defining tolerances.
 
-
+A5 Bracket Design.SLDPRT
+Bracket Design draw.SLDDRW
