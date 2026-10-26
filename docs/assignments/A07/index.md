@@ -1,4 +1,4 @@
-# A7 – [Topic]
+# A7 – FEA on Bracket
 
 ## Objective
 The purpose of this assignment is to improve the bracket design created in Assignments #5 and #6 by using finite element analysis (FEA). The main goal is to optimize the bracket for strength, stiffness, and weight while keeping the original assigned material.
