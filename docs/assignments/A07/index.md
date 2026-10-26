@@ -116,3 +116,4 @@ One of the biggest things I learned was the importance of mesh convergence. I re
 Another important takeaway was learning how to balance strength, stiffness, and weight. Reducing the mass of a bracket does not always mean the design is better, especially if it leads to higher stress or greater deflection. I also learned the importance of double-checking my simulation setup, including the applied forces and constraints, to avoid errors that could affect my results. Moving forward, I plan to use what I learned from this assignment to make better design decisions and improve the accuracy of my simulations.
 
 The total time I spent completing this assignment was 7 hours.
+Part link https://mail.google.com/mail/u/0?ui=2&ik=4e9b2dd91e&attid=0.1&permmsgid=msg-a:r1446276862203762957&view=att&disp=safe&realattid=f_mv71gdob0&zw
